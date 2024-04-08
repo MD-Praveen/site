@@ -792,7 +792,7 @@
 /*------------------------ page5 -------------------------- */
 
 .page5{
-    height: 45vh;
+    /* height: 45vh; */
     background-color: #072cffb9;
     margin-bottom: 50px;
 }
